@@ -1,0 +1,53 @@
+<h3>Result:</h3>
+<div id="result"></div>
+<br>
+<h3>Legend</h3>
+browser:
+<ul>
+    <li><code>ed</code> = Microsoft Edge</li>
+    <li><code>ie9</code> = Explorer 9</li>
+    <li><code>ie10</code> = Explorer 10</li>
+    <li><code>ie11</code> = Explorer 11</li>
+    <li><code>ie</code>? = Explorer 8 and below</li>
+    <li><code>ff</code> = Firefox</li>
+    <li><code>gc</code> = Google Chrome</li>
+    <li><code>sa</code> = Safari</li>
+    <li><code>op</code> = Opera</li>
+</ul>
+
+os:
+<ul>
+    <li><code>win7</code></li>
+    <li><code>win8</code></li>
+    <li><code>win9</code></li>
+    <li><code>win10</code></li>
+    <li><code>winvista</code></li>
+    <li><code>winxp</code></li>
+    <li><code>winnt</code></li>
+    <li><code>mac</code></li>
+    <li><code>linux</code></li>
+    <li><code>nix</code></li>
+</ul>
+
+mobile - including tablets:
+<ul>
+    <li><code>0</code> = Not a mobile or tablet device</li>
+    <li><code>w</code> = Windows Phone (Nokia Lumia)</li>
+    <li><code>i</code> = iOS (iPhone iPad)</li>
+    <li><code>a</code> = Android</li>
+    <li><code>b</code> = Blackberry</li>
+    <li><code>s</code> = Undetected mobile device running Safari</li>
+    <li><code>1</code> = Undetected mobile device</li>
+</ul>
+
+tablet:
+<ul>
+    <li><code>true</code></li>
+    <li><code>false</code></li>
+</ul>
+
+touch:
+<ul>
+    <li><code>true</code></li>
+    <li><code>false</code></li>
+</ul>
